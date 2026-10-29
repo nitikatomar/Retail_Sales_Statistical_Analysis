@@ -1,0 +1,48 @@
+Retail Sales & Statistical Analysis
+
+Project Overview
+
+This project analyses retail sales data using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+
+Objectives
+
+- Calculate statistical measures such as mean, median, mode, variance, and standard deviation.
+- Analyse sales and profit by product category.
+- Explore the relationship between sales and profit using correlation.
+- Visualise category-wise sales with charts.
+- Check missing values and duplicate records.
+- Generate business insights from the dataset.
+
+Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- VS Code
+
+Key Findings
+
+- Total sales: ₹19,350
+- Total profit: ₹3,670
+- Total orders: 15
+- Highest-selling category by total sales: Furniture
+- Overall profit margin: 18.97%
+
+Dataset
+
+A small sample retail dataset created for learning and statistical analysis.
+
+How to Run
+
+1. Install Python.
+2. Install the required libraries:
+   "python -m pip install pandas numpy matplotlib seaborn"
+3. Keep "main.py" and "sales_data.csv" in the same folder.
+4. Run:
+   "python main.py"
+
+Learning Outcomes
+
+Practised data cleaning checks, descriptive statistics, correlation analysis, data visualisation, and business reporting.
