@@ -1,48 +1,69 @@
-Retail Sales & Statistical Analysis
+Retail Sales Statistical Analysis
 
 Project Overview
 
-This project analyses retail sales data using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+This project analyzes retail sales data using Python, Pandas, NumPy, Matplotlib, and Statistics. The goal is to understand sales performance, profit trends, and relationships between sales and profit.
 
 Objectives
 
-- Calculate statistical measures such as mean, median, mode, variance, and standard deviation.
-- Analyse sales and profit by product category.
-- Explore the relationship between sales and profit using correlation.
-- Visualise category-wise sales with charts.
-- Check missing values and duplicate records.
-- Generate business insights from the dataset.
+- Calculate mean, median, mode, standard deviation, and variance.
+- Analyze sales and profit by product category.
+- Study the correlation between sales and profit.
+- Identify missing values and duplicate records.
+- Generate charts to visualize sales performance.
+- Extract useful business insights from the dataset.
 
-Tools Used
+Tools and Technologies
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- VS Code
+- Statistics
+
+Statistical Analysis
+
+- Descriptive Statistics
+- Measures of Central Tendency
+- Measures of Dispersion
+- Correlation Analysis
+- Category-wise Sales and Profit Analysis
+- Data Quality Checking
 
 Key Findings
 
-- Total sales: ₹19,350
-- Total profit: ₹3,670
-- Total orders: 15
-- Highest-selling category by total sales: Furniture
-- Overall profit margin: 18.97%
+- Total Sales: 19,350
+- Total Profit: 3,670
+- Total Orders: 15
+- Best-selling Category by Sales: Furniture
+- Overall Profit Margin: 18.97%
 
-Dataset
+Visualizations
 
-A small sample retail dataset created for learning and statistical analysis.
+The project includes a bar chart showing total sales by category and a scatter plot exploring the relationship between sales and profit.
 
-How to Run
+What I Learned
 
-1. Install Python.
+- Applying statistical concepts to real data.
+- Using Pandas for data analysis.
+- Creating visualizations with Matplotlib.
+- Interpreting correlation and descriptive statistics.
+- Communicating data-driven business insights.
+
+How to Run the Project
+
+1. Install Python on your computer.
 2. Install the required libraries:
-   "python -m pip install pandas numpy matplotlib seaborn"
+
+pip install pandas numpy matplotlib
+
 3. Keep "main.py" and "sales_data.csv" in the same folder.
-4. Run:
-   "python main.py"
+4. Run the project:
 
-Learning Outcomes
+python main.py
 
-Practised data cleaning checks, descriptive statistics, correlation analysis, data visualisation, and business reporting.
+Project Type
+
+Beginner Data Analytics Project
+
+Created for learning Python, Statistics, and Data Analysis.
